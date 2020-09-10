@@ -5,7 +5,7 @@ If you want to use this program you need to download the x10 environment at:
 http://x10-lang.org/releases/x10-release-262.html .
 
 Once you have the environment ready use the bin/x10c and bin/x10c++ files to compile .x10 sources.
-First, compile DoublePoint, Direction, PointSet classes and then the main program ConvexHUll.
+First, compile DoublePoint, Direction, PointSet classes and then the main program ConvexHull.
 DoublePoint: a class representing a point in the plane with double coordinates.
 Direction: class that determines if a triplet of points turns left or right or if they are collinear.
 PointSet: a class that contains an array of DoublePoints and some methods.
